@@ -1,5 +1,5 @@
-# ButtonBasedFightGame
-Button based fight game with java swing
+# ButtonBased Fight Game (JAVA Swing)
+
 
 ## Introduction
 This Java Swing-based project is a simple button-based fight game that allows two players to engage in a turn-based battle. The game features a graphical user interface (GUI) with buttons for actions such as attacking, healing, and surrendering. The project includes language support, with English and Turkish versions available.
